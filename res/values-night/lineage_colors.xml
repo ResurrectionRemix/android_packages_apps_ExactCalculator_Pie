@@ -25,6 +25,9 @@
     <!-- Background color for the operator pad. -->
     <color name="pad_operator_background_color">#1E1E1E</color>
 
+    <!-- Background color of the calculator display. -->
+    <color name="display_background_color">@color/calculator_primary_color</color>
+
     <!-- Text color for the formula in the calculator display. -->
     <color name="display_formula_text_color">@android:color/white</color>
 
